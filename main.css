@@ -1,0 +1,61 @@
+.contact{position: absolute; top: 15px; left: 50px;}
+.codepen{position: absolute; top: 30px; right: 70px;}
+.github{position: absolute; top: 25px; right: 10px;}
+.text{color: rgb(0, 102, 255);
+    position:absolute; top: 10px; left: 50px;
+padding-left: 50px;}
+.first{padding-top: 5%;}
+.point{display: flex;
+    flex-direction: row;
+    justify-content: space-between;}
+.box-1{ padding-top: 15%;
+    padding-bottom: 10%;
+padding-left: 50px;
+color: gray;
+display: flex;
+flex-direction: row;
+justify-content: space-between;}
+.me{border-radius: 50%;
+margin-right: 150px;
+padding: 70px;
+position: absolute;
+top: 2px;
+right: 2px;
+border:15px;}
+.box-2{background-color:lightgray;
+    display: flex;
+    justify-content: center;
+background-size: 50%;}
+.red{display: flex;
+justify-content: center;}
+.after{padding-left: 50px}
+.view{color: gray;
+}
+.line{width: 50%;
+    height: 50%;
+    margin-left: 25%;}
+.icon{width: 50%;
+height: 50%;
+margin-left: 25%;}
+.float{display: flex;
+    justify-content: flex-end;}
+.sticky{
+    width: 75%;
+height: 75%;
+margin-right: 10px;}
+#skills{
+    padding-top: 100px;
+}
+#box{
+    padding-bottom: 100px;
+}
+.yellow{height: 60px; 
+    width: 60px;
+    border-radius: 50%;
+     background-color: blue;
+     margin-right: 150px;
+     padding: 70px;
+     position: absolute;
+     top: 80px;
+     right: 40px;
+     border:15px;}
